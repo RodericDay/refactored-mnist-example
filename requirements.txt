@@ -1,0 +1,5 @@
+keras
+theano
+numpy
+matplotlib
+h5py
